@@ -1,3 +1,3 @@
 class roles::audited {
-  include profiles::audited
+  include profiles::audit_prod
 }
